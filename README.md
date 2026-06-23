@@ -1,23 +1,163 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sushant Pawar
 
-<!--
-**sushantpawar01/sushantpawar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Aspiring Data Analyst & Product Manager | Tech Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer and data enthusiast pursuing an Integrated B.Tech in Information Technology + MBA at **ABV-IIITM Gwalior**. I love transforming raw data into actionable insights and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-{
-  "owner": "sushantpawar01",
-  "repo": "sushantpawar01",
-  "path": "README.md",
-  "content": "# Hi there! 👋 I'm Sushant Pawar\n\n### 🎯 Aspiring Data Analyst & Product Manager | Tech Enthusiast | Problem Solver\n\nWelcome to my GitHub profile! I'm a passionate developer and data enthusiast pursuing an Integrated B.Tech in Information Technology + MBA at **ABV-IIITM Gwalior**. I love transforming raw data into actionable insights and building innovative solutions.\n\n---\n\n## 🚀 About Me\n\n- 💼 Currently exploring **Data Analytics**, **Product Management**, and **Machine Learning**\n- 📊 Specialized in **SQL**, **Power BI**, **Tableau**, and **Data-driven Decision Making**\n- 🌐 Building full-stack applications with **React.js** and **Node.js**\n- 🎓 Focused on bridging the gap between technology and business strategy\n- 🎭 Active member of theatre and creativity communities\n\n---\n\n## 🛠️ Technical Stack\n\n**Languages:**\n![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)\n![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)\n\n**Web Development:**\n![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)\n![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)\n![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)\n![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)\n![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)\n\n**Data & Analytics:**\n![SQL](https://img.shields.io/badge/SQL-Advanced-brightgreen?style=flat-square)\n![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)\n![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)\n![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)\n![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)\n\n**Databases & Cloud:**\n![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)\n![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)\n![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)\n![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)\n\n**Tools & Others:**\n![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)\n![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)\n![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)\n\n---\n\n## 📊 Featured Projects\n\n### 🎯 Customized Recommendation System\n**Tech:** Python, Machine Learning, RFM Analysis\n- Designed an ML-based recommendation engine using customer behavior and purchase history\n- Applied clustering techniques for RFM (Recency, Frequency, Monetary) analysis\n- Improved customer targeting and retention through data-driven insights\n- 📁 [View Project](https://github.com/sushantpawar01)\n\n### 📈 Credit Card Weekly Status Dashboard\n**Tech:** SQL, Power BI, DAX, Data Analysis\n- Created a dual-view Power BI dashboard monitoring weekly KPIs across **667K transactions**\n- Identified key customer segments: 40-50 age group & \"Blue\" cardholders (83% revenue share)\n- Proposed data-driven initiatives to boost digital transactions and optimize marketing\n- 📁 [View Project](https://github.com/sushantpawar01)\n\n### 💰 Mutual Fund Analysis System\n**Tech:** Python (Pandas, Sklearn), Excel, Power BI\n- Analyzed 2500+ mutual fund schemes to identify top 30 high-return, low-risk options\n- Developed custom scoring model combining returns, expense ratio, and consistency metrics\n- Built interactive Power BI dashboard with dynamic filters and KPI visualizations\n- 📁 [View Project](https://github.com/sushantpawar01)\n\n---\n\n## 🏆 Certifications & Achievements\n\n✅ **SQL (Advanced)** - HackerRank  \n✅ **BigQuery Data Insights** - Google Cloud  \n✅ **Data Analysis with Microsoft Excel** - Coursera  \n✅ **AI for Product Management** - Google Cloud  \n\n---\n\n## 💡 Expertise Areas\n\n| Area | Skills |\n|------|--------|\n| **Data Analytics** | SQL, Power BI, Tableau, BigQuery, Excel |\n| **Product Management** | Product Strategy, Roadmap Planning, KPI Analysis, Market Research |\n| **Machine Learning** | Python, Scikit-learn, RFM Analysis, Clustering |\n| **Full-Stack Development** | React.js, Node.js, Express, REST APIs, MongoDB |\n| **Business Intelligence** | DAX, Data Visualization, Process Optimization |\n\n---\n\n## 📚 Currently Learning\n\n- 🔍 Advanced Data Science & Machine Learning\n- 🏗️ System Design & Scalable Architecture\n- 📱 Mobile App Development\n- 🎨 UI/UX Design Principles\n\n---\n\n## 🤝 Let's Connect\n\n<a href=\"https://linkedin.com/in/sushantpawar11\">\n  <img src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\">\n</a>\n<a href=\"mailto:sushantakki11@gmail.com\">\n  <img src=\"https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\">\n</a>\n<a href=\"tel:+919759620881\">\n  <img src=\"https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white\" alt=\"Phone\">\n</a>\n\n---\n\n## 📈 GitHub Stats\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=sushantpawar01&theme=radical&show_icons=true\" alt=\"GitHub Stats\" width=\"48%\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=sushantpawar01&theme=radical\" alt=\"GitHub Streak\" width=\"48%\">\n</div>\n\n---\n\n## 🎓 Education\n\n**Integrated B.Tech (Information Technology) + MBA**  \n*ABV-Indian Institute of Information Technology and Management, Gwalior*  \n📅 2022 – 2027\n\n**Focus Areas:** Product Strategy, Data Analytics, Process Optimization, Data-driven Decision Making\n\n---\n\n## 💬 Fun Facts\n\n- 🎭 Active content writer for Manchtantra IIITM Theatre Club\n- 🎪 Represented IIITM at Thomso'22 (IIT Roorkee)\n- 🎯 Passionate about turning data into stories\n- 📊 Coffee ☕ + Data 📈 = Productivity 📈\n\n---\n\n## 📝 Quote\n\n> *\"Data is the new oil, but insights are the new gold.\"*\n\n---\n\n<div align=\"center\">\n  \n**Made with ❤️ by Sushant Pawar**\n\n⭐️ If you find my projects helpful, please consider giving them a star!\n\n</div>",
-  "message": "feat: create profile README with resume details and project highlights"
-}
+---
+
+## 🚀 About Me
+
+- 💼 Currently exploring **Data Analytics**, **Product Management**, and **Machine Learning**
+- 📊 Specialized in **SQL**, **Power BI**, **Tableau**, and **Data-driven Decision Making**
+- 🌐 Building full-stack applications with **React.js** and **Node.js**
+- 🎓 Focused on bridging the gap between technology and business strategy
+- 🎭 Active member of theatre and creativity communities
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages:**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web Development:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Data & Analytics:**
+![SQL](https://img.shields.io/badge/SQL-Advanced-brightgreen?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases & Cloud:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools & Others:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+### 🎯 Customized Recommendation System
+**Tech:** Python, Machine Learning, RFM Analysis
+- Designed an ML-based recommendation engine using customer behavior and purchase history
+- Applied clustering techniques for RFM (Recency, Frequency, Monetary) analysis
+- Improved customer targeting and retention through data-driven insights
+- 📁 [View Project](https://github.com/sushantpawar01)
+
+### 📈 Credit Card Weekly Status Dashboard
+**Tech:** SQL, Power BI, DAX, Data Analysis
+- Created a dual-view Power BI dashboard monitoring weekly KPIs across **667K transactions**
+- Identified key customer segments: 40-50 age group & "Blue" cardholders (83% revenue share)
+- Proposed data-driven initiatives to boost digital transactions and optimize marketing
+- 📁 [View Project](https://github.com/sushantpawar01)
+
+### 💰 Mutual Fund Analysis System
+**Tech:** Python (Pandas, Sklearn), Excel, Power BI
+- Analyzed 2500+ mutual fund schemes to identify top 30 high-return, low-risk options
+- Developed custom scoring model combining returns, expense ratio, and consistency metrics
+- Built interactive Power BI dashboard with dynamic filters and KPI visualizations
+- 📁 [View Project](https://github.com/sushantpawar01)
+
+---
+
+## 🏆 Certifications & Achievements
+
+✅ **SQL (Advanced)** - HackerRank  
+✅ **BigQuery Data Insights** - Google Cloud  
+✅ **Data Analysis with Microsoft Excel** - Coursera  
+✅ **AI for Product Management** - Google Cloud  
+
+---
+
+## 💡 Expertise Areas
+
+| Area | Skills |
+|------|--------|
+| **Data Analytics** | SQL, Power BI, Tableau, BigQuery, Excel |
+| **Product Management** | Product Strategy, Roadmap Planning, KPI Analysis, Market Research |
+| **Machine Learning** | Python, Scikit-learn, RFM Analysis, Clustering |
+| **Full-Stack Development** | React.js, Node.js, Express, REST APIs, MongoDB |
+| **Business Intelligence** | DAX, Data Visualization, Process Optimization |
+
+---
+
+## 📚 Currently Learning
+
+- 🔍 Advanced Data Science & Machine Learning
+- 🏗️ System Design & Scalable Architecture
+- 📱 Mobile App Development
+- 🎨 UI/UX Design Principles
+
+---
+
+## 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/sushantpawar11">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:sushantakki11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="tel:+919759620881">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+</a>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushantpawar01&theme=radical&show_icons=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantpawar01&theme=radical" alt="GitHub Streak" width="48%">
+</div>
+
+---
+
+## 🎓 Education
+
+**Integrated B.Tech (Information Technology) + MBA**  
+*ABV-Indian Institute of Information Technology and Management, Gwalior*  
+📅 2022 – 2027
+
+**Focus Areas:** Product Strategy, Data Analytics, Process Optimization, Data-driven Decision Making
+
+---
+
+## 💬 Fun Facts
+
+- 🎭 Active content writer for Manchtantra IIITM Theatre Club
+- 🎪 Represented IIITM at Thomso'22 (IIT Roorkee)
+- 🎯 Passionate about turning data into stories
+- 📊 Coffee ☕ + Data 📈 = Productivity 📈
+
+---
+
+## 📝 Quote
+
+> *"Data is the new oil, but insights are the new gold."*
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by Sushant Pawar**
+
+⭐️ If you find my projects helpful, please consider giving them a star!
+
+</div>
