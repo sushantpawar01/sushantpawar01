@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast pur
 
 - 🔍 Advanced Data Science & Machine Learning
 - 🏗️ System Design & Scalable Architecture
-- 📱 Mobile App Development
+- 📱 Advance Analytics
 - 🎨 UI/UX Design Principles
 
 ---
