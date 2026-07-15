@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast pur
 - Designed an ML-based recommendation engine using customer behavior and purchase history
 - Applied clustering techniques for RFM (Recency, Frequency, Monetary) analysis
 - Improved customer targeting and retention through data-driven insights
-- 📁 [View Project](https://github.com/sushantpawar01)
+- 📁 [View Project](https://github.com/sushantpawar01/Customized-Recommendation-System-The-Intelligent-customer-segmentation-Approach-)
 
 ### 📈 Credit Card Weekly Status Dashboard
 **Tech:** SQL, Power BI, DAX, Data Analysis
