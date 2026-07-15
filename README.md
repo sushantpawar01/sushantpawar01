@@ -65,14 +65,16 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast pur
 - Created a dual-view Power BI dashboard monitoring weekly KPIs across **667K transactions**
 - Identified key customer segments: 40-50 age group & "Blue" cardholders (83% revenue share)
 - Proposed data-driven initiatives to boost digital transactions and optimize marketing
-- 📁 [View Project](https://github.com/sushantpawar01)
+- 📁 [View Project](https://github.com/sushantpawar01/CREDIT-CARD-WEEKLY-STATUS-DASHBOARD)
 
 ### 💰 Mutual Fund Analysis System
 **Tech:** Python (Pandas, Sklearn), Excel, Power BI
 - Analyzed 2500+ mutual fund schemes to identify top 30 high-return, low-risk options
 - Developed custom scoring model combining returns, expense ratio, and consistency metrics
 - Built interactive Power BI dashboard with dynamic filters and KPI visualizations
-- 📁 [View Project](https://github.com/sushantpawar01)
+- 📁 [View Project](https://github.com/sushantpawar01/Mutual-Fund-Analysis)
+
+### For more Visit the repositories
 
 ---
 
