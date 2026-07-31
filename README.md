@@ -125,8 +125,17 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast pur
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantpawar01&theme=radical&show_icons=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantpawar01&theme=radical" alt="GitHub Streak" width="48%">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sushantpawar01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=sushantpawar01&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpawar01&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
